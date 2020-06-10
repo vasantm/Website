@@ -1,0 +1,16 @@
+ @font-face
+{
+  font-family: 'myStylishFont';
+  src: url(../fonts/RockSalt-Regular.ttf)format('truetype');
+}
+.navbar-brand {
+  font-family: 'myStylishFont';
+  text-transform: none;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 18px;
+  font-weight: bold;
+}
