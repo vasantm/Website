@@ -43,7 +43,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 #configuring permalinks
 [permalinks]
-    post = "/blog/:year/:month/:day/:slug"
+    post = "/blog/:slug"
 
 [params.logo]
      url = "images/VRM-logo.png" 
