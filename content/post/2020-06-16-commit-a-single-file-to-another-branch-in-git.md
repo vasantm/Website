@@ -9,6 +9,7 @@ tags:
   - til
   - git
   - technical
+  - git
 subtitle: ''
 summary: 'How to commit a single file to another branch'
 authors: []
