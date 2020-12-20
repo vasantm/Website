@@ -2,7 +2,7 @@
 # Username (this should match the folder name)
 authors:
 - vasant
-bio: My research interests include circadian rhythms,lipidomics, reproducible research.
+bio: My research interests include circadian rhythms, lipidomics, reproducible research.
 education:
   courses:
   - course: MS in Bioinfomatics
