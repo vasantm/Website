@@ -40,5 +40,6 @@ social:
   link: https://github.com/vasantm
 superuser: true
 ---
+I am a Bioinformatician and Data Scientist, taking a short summer break before starting my new job later in Aug 2021.
 
-I am a Bioinformatician at the Kristal Lab, Division of Sleep and Circadian Disorders, Dept. of Medicine at the [Brigham and Women's Hospital](https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview) in Boston, Mass. I am currently working on finding markers of circadian time using lipidomics.
+I was a Bioinformatician at the Kristal Lab, Division of Sleep and Circadian Disorders, Dept. of Medicine at the [Brigham and Women's Hospital](https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview) in Boston, Mass where I was working on finding markers of circadian time using lipidomics, building analytical pipelines to identify lipids and managing computing infrastructure. I did this for more than 14 years starting back in April 2007.
