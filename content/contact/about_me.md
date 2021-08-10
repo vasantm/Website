@@ -51,6 +51,7 @@ I am native of Bombay (now called Mumbai), India. I did my undergraduate studies
 After finishing up my Masters, I worked at the Kristal Lab, Dementia Research Service, [Burke Medical Research Institute](https://burke.weill.cornell.edu/), a neurological research institute affiliated with Cornell Med. School in White Plains, NY.
 
 I moved to Boston in 2007 as the Kristal Lab moved to Harvard/Brigham and Women's Hospital. Our lab was initially  part of the Dept. of Neurosurgery and since 2016 we're part of the [Division of Sleep and Circadian Disorders](https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview), within the Dept. of Medicine. 
+I was at the Kristal Lab until July 9, 2021 which was my last day, now taking a short break for the summer before starting my new job.
 
 When not working at my desk or computer munging data, producing graphs and writing R code I like to cook, take [photos](/photos/index.html) and get the occasional hike in.
 
