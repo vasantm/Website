@@ -43,4 +43,4 @@ superuser: true
 I am a Senior Data Scientist at Merck Research Laboratories since Aug 2021. I help scientists
 analyze images from fluorescence microscopy using deep learning.
 
-I was a Bioinformatician at the Kristal Lab, Division of Sleep and Circadian Disorders, Dept. of Medicine at the [Brigham and Women's Hospital](https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview) in Boston, Mass where I was working on finding markers of circadian time using lipidomics, building analytical pipelines to identify lipids and managing computing infrastructure. I did this for more than 14 years starting back in April 2007.
+I was a Bioinformatician at the Kristal Lab, Division of Sleep and Circadian Disorders, Dept. of Medicine at the [Brigham and Women's Hospital](https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview) in Boston, Mass where I was working on finding markers of circadian time using lipidomics, building analytical pipelines to identify lipids and managing computing infrastructure.
