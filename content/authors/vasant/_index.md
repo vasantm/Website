@@ -16,15 +16,15 @@ education:
     year: 2002
 email: "vasant@vasantmarur.net"
 interests:
-- Statistics/ Data Science
-- Machine Learning
-- Bioinformatics, Lipidomics
+- Statistics & Data Science
+- Machine Learning - Deep Learning
+- Bioinformatics
 - Photography
 #Name: Vasant Marur
 organizations:
-- name: Brigham and Women's Hospital
-  url: "https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview"
-role: Research Specialist - Informatics
+- name: Merck & Co., Inc.
+  url: "https://www.merck.com/research/"
+role: Senior Data Scientist, Quantitative Biosciences, Merck & Co., Inc.
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,6 +40,7 @@ social:
   link: https://github.com/vasantm
 superuser: true
 ---
-I am a Bioinformatician and Data Scientist, taking a short summer break before starting my new job later in Aug 2021.
+I am a Senior Data Scientist at Merck Research Laboratories since Aug 2021. I help scientists
+analyze images from fluorescence microscopy using deep learning.
 
 I was a Bioinformatician at the Kristal Lab, Division of Sleep and Circadian Disorders, Dept. of Medicine at the [Brigham and Women's Hospital](https://www.brighamandwomens.org/medicine/sleep-and-circadian-disorders/overview) in Boston, Mass where I was working on finding markers of circadian time using lipidomics, building analytical pipelines to identify lipids and managing computing infrastructure. I did this for more than 14 years starting back in April 2007.
